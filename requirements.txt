@@ -1,0 +1,8 @@
+numpy
+pandas
+openpyxl
+statsmodels
+arch
+scipy
+yfinance
+exchange_calendars
