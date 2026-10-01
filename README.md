@@ -14,8 +14,8 @@ HAC errors, Granger causality tests and an AR(2)-X EGARCH(1,1) model.
 - The relationship is specific to the defence firm: it does not appear in non-defence firms or in a bank placebo.
 - Coverage moves the level of returns, barely their volatility.
 
-[[Saab abnormal returns](figures/abnormal_returns_saab.png](https://github.com/masciavelucasv/saab-war-news-returns/blob/main/abnormal_returns_saab.png))
-![Monthly war-related news volume](figures/monthly_news_volume.png)
+![Abnormal Returns](abnormal_returns_saab.png)
+![Monthly News Volume](monthly_news_volume.png)
 
 ## Pipeline
 
